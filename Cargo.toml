@@ -4,12 +4,12 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-bevy = "0.15"
-bevy_ghx_proc_gen = { version = "0.8.0", features = ["bevy_ghx_grid"] }
+bevy = "0.13.2"
+bevy_ghx_proc_gen = { version = "0.2.0", features = ["bevy_ghx_grid"] }
 bevy_ghx_utils = "0.3.0"
-bevy_mod_picking = "0.20"
-bevy_panorbit_camera = "0.25"
-avian3d = { version = "0.1", features = ["debug-plugin"] }
+bevy_mod_picking = "0.19.1"
+bevy_panorbit_camera = "0.18.2"
+bevy_xpbd_3d = { version = "0.4.2", features = ["debug-plugin"] }
 
 # Enable a small amount of optimization in debug mode
 [profile.dev]
