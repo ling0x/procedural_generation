@@ -12,7 +12,7 @@ A 3D procedural generation demo built with Bevy game engine, showcasing wave fun
 
 ## Built With
 
-- [Bevy 0.15](https://bevyengine.org/) - Game engine
+- [Bevy 0.13](https://bevyengine.org/) - Game engine
 - [bevy_ghx_proc_gen](https://crates.io/crates/bevy_ghx_proc_gen) - Procedural generation library
 - [bevy_panorbit_camera](https://crates.io/crates/bevy_panorbit_camera) - Camera controls
 - [Avian3D](https://crates.io/crates/avian3d) - Physics engine
